@@ -6,6 +6,7 @@ It deals with cases such as:
 * With or without '/' at the end
 * Double or single quotes in the tags
 * Making sure sets and queues are thread safe
+* Set limits such as number of total web pages to crawl to depth first or number of levels to go down for breath first otherwise for most urls it will go on forever
 
 ![screenshot 1](http://mayuliang.com/documents/images/crawler1.png "screenshot 1")
 
