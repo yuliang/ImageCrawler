@@ -10,4 +10,4 @@ It deals with cases such as:
 
 ![screenshot 1](http://www-personal.umich.edu/~yuliang/wp-content/crawler1.png "screenshot 1")
 
-![screenshot 2](http://www-personal.umich.edu/~yuliang/wp-content/crawler1.png "screenshot 2")
+![screenshot 2](http://www-personal.umich.edu/~yuliang/wp-content/crawler2.png "screenshot 2")
